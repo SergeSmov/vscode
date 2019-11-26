@@ -1,0 +1,11 @@
+/home/serge/projects/git/accounts/obj/Debug/netcoreapp3.0/accounts.csprojAssemblyReference.cache
+/home/serge/projects/git/accounts/obj/Debug/netcoreapp3.0/accounts.AssemblyInfoInputs.cache
+/home/serge/projects/git/accounts/obj/Debug/netcoreapp3.0/accounts.AssemblyInfo.cs
+/home/serge/projects/git/accounts/bin/Debug/netcoreapp3.0/accounts
+/home/serge/projects/git/accounts/bin/Debug/netcoreapp3.0/accounts.deps.json
+/home/serge/projects/git/accounts/bin/Debug/netcoreapp3.0/accounts.runtimeconfig.json
+/home/serge/projects/git/accounts/bin/Debug/netcoreapp3.0/accounts.runtimeconfig.dev.json
+/home/serge/projects/git/accounts/bin/Debug/netcoreapp3.0/accounts.dll
+/home/serge/projects/git/accounts/bin/Debug/netcoreapp3.0/accounts.pdb
+/home/serge/projects/git/accounts/obj/Debug/netcoreapp3.0/accounts.dll
+/home/serge/projects/git/accounts/obj/Debug/netcoreapp3.0/accounts.pdb
