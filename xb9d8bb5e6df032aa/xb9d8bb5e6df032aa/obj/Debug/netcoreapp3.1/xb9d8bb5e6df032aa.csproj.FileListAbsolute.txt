@@ -1,0 +1,5 @@
+C:\Users\serge\source\repos\SergeSmov\vscode\xb9d8bb5e6df032aa\xb9d8bb5e6df032aa\bin\Debug\netcoreapp3.1\xb9d8bb5e6df032aa.exe
+C:\Users\serge\source\repos\SergeSmov\vscode\xb9d8bb5e6df032aa\xb9d8bb5e6df032aa\obj\Debug\netcoreapp3.1\xb9d8bb5e6df032aa.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\SergeSmov\vscode\xb9d8bb5e6df032aa\xb9d8bb5e6df032aa\obj\Debug\netcoreapp3.1\xb9d8bb5e6df032aa.AssemblyInfo.cs
+C:\Users\serge\source\repos\SergeSmov\vscode\xb9d8bb5e6df032aa\xb9d8bb5e6df032aa\obj\Debug\netcoreapp3.1\xb9d8bb5e6df032aa.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\SergeSmov\vscode\xb9d8bb5e6df032aa\xb9d8bb5e6df032aa\obj\Debug\netcoreapp3.1\xb9d8bb5e6df032aa.csproj.CoreCompileInputs.cache
